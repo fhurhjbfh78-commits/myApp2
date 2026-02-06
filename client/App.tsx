@@ -62,6 +62,3 @@ const App = () => <AppContent />;
 createRoot(document.getElementById("root")!).render(<App />);
 
 export default App;
-
-// Export React for context
-import React from "react";
